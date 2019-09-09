@@ -2,6 +2,7 @@ fastapi
 sqlalchemy
 starlette
 uvicorn
+gunicorn
 psycopg2
 psycopg2-binary
 numpy
