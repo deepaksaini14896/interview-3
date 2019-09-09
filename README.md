@@ -5,7 +5,7 @@
 
 
 ```sh
-$ git clone https://github.com/deepaksaini14896/interview-stage-3.git
+$ git clone https://github.com/deepaksaini14896/interview-3.git
 
 $ pip install -r requirements.txt
 ```
